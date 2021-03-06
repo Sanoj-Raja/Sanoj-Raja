@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Here is a random meme for you, to make your day better
+[![Sanoj Raja's github stats](https://github-readme-stats.vercel.app/api?username=Sanoj-Raja&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Sanoj-Raja)
+
+
+### Here is a random meme for you, to make your day better.
 (*PS: Refresh the page to see a new meme* :wink: )
 
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
