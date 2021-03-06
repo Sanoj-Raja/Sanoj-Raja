@@ -127,12 +127,6 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 #
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
 
 ### Here is a random meme for you, to make your day better.
 (*PS: Refresh the page to see a new meme* :wink: )
