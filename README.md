@@ -6,7 +6,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/developer.gif ?raw=true" width="500" height="320" />
+<img align="right" height="250" width="375" alt="developer" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/developer.gif?raw=true" width="500" height="320" />
 
 ### Talking about Personal Stuffs:
 
