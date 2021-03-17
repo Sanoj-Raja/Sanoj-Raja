@@ -11,14 +11,14 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
 - 🚀 &nbsp; I’m currently learning Cross Platform Mobile App Development.
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 👾 &nbsp; Fun fact: Computers run on binary code, which means that their software is written using only 1s and 0s.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 📫 &nbsp; How to reach me: pimen07860@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 📰 &nbsp; Calisthenics & Workout whenever possible.
+- 🍕 &nbsp; Travelling, public speaking, meetups & tech events.
 
 ### Languages and Tools:
 
