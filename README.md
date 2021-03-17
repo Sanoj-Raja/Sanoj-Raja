@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Sanoj Raja!
 
 ### Glad to see you here!
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a self taught programmer & a developer 🎓 from India. I'm a passionate learner who's always willing to learn and work across technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently doing & learning Flutter Developement 🕸️ and Python.
 
 <img align="right" width="400" height="300" alt="developer" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/developer.gif?raw=true" width="700" height="520" />
 
