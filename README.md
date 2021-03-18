@@ -29,7 +29,7 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
 <code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/JavaScript.png" alt="Javascript"></code>
 <code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Git.png" alt="Git"></code>
 
-### Projects and Dev Stuffs:
+### Dev Stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -51,7 +51,7 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
 	    <li><b>Laptop: </b> MacBook Pro</li>
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Terminal: </b> ZSH: Sanoj Raja Zsh</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>Code Editor:</b> VS Code - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Youtube - mtechviral, Desi Programmer, CodeWithHarry | Google | Stackoverflow | Flutter.dev</li>
 	</ul>	
 </details>
