@@ -22,18 +22,12 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
 
 ### Languages and Tools:
 
-<code><img height="30" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Dart.png" alt="Dart"> </code>
-<code><img height="27" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Flutter.png" alt="Flutter"></code>
-<code><img height="27" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Python.png" alt="Python"></code>
-<code><img height="27" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Selenium.png" alt="Selenium"></code>
-<code><img height="27" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/JavaScript.png" alt="Javascript"></code>
-<code><img height="27" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Git.png" alt="Git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
+<code><img height="50" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Dart.png" alt="Dart"> </code>
+<code><img height="50" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Flutter.png" alt="Flutter"></code>
+<code><img height="50" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Python.png" alt="Python"></code>
+<code><img height="50" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Selenium.png" alt="Selenium"></code>
+<code><img height="50" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/JavaScript.png" alt="Javascript"></code>
+<code><img height="50" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Git.png" alt="Git"></code>
 
 ### Projects and Dev Stuffs:
 
