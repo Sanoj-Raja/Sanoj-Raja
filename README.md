@@ -55,7 +55,6 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
 	    <li><b>To Stay Updated:</b> Youtube - mtechviral, Desi Programmer, CodeWithHarry | Google | Stackoverflow | Flutter.dev</li>
 	</ul>	
 </details>
-<br />
 
 
 ### Here is a random meme for you, to make your day better.
