@@ -23,7 +23,7 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
 ### Languages and Tools:
 
 <code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Dart.png" alt="Dart"> </code>
-<code><img height="80" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Flutter.png" alt="Flutter"></code>
+<code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Flutter.png" alt="Flutter"></code>
 <code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Python.png" alt="Python"></code>
 <code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/Selenium.png" alt="Selenium"></code>
 <code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/JavaScript.png" alt="Javascript"></code>
