@@ -1,13 +1,13 @@
 ## Hey 👋, I'm Sanoj Raja!
 
 ### Glad to see you here!
-I'm a self taught programmer & developer from India. I'm a passionate learner who's always willing to learn and work across technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently doing & learning Dart, Flutter & Python.
+I'm a self taught programmer & developer from India. I'm a passionate learner who's always willing to learn and work across technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into cross-platform mobile apps development using Google Flutter & Dart Programing Language.
 
 <img align="right" width="400" height="300" alt="developer" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/developer.gif?raw=true" width="700" height="520" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Dart, Flutter, Python, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Dart, Flutter & Python.
 - 🚀 &nbsp; I’m currently learning Cross Platform Mobile App Development.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Sanoj-Raja/Sanoj-Raja/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Computers run on binary code, which means that their software is written using only 1s and 0s.
