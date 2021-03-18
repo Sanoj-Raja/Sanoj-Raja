@@ -101,14 +101,13 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Developer Edition</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+  	    <li><b>OS:</b> macOs Catalina 10.15.7</li>
+	    <li><b>Laptop: </b> MacBook Pro</li>
+  	    <li><b>Browser: </b> Google Chrome</li>
+	    <li><b>Terminal: </b> ZSH: Sanoj Raja Zsh</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <li><b>To Stay Updated:</b> Youtube - mtechviral, Desi Programmer, Code With Harry | Medium | Flutter.dev</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
