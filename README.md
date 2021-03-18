@@ -106,12 +106,10 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Terminal: </b> ZSH: Sanoj Raja Zsh</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Youtube - mtechviral, Desi Programmer, Code With Harry | Medium | Flutter.dev</li>
-	    <br />
+	    <li><b>To Stay Updated:</b> Youtube - mtechviral, Desi Programmer, CodeWithHarry | Google | Stackoverflow | Flutter.dev</li>
 	</ul>	
 </details>
 
-#
 
 ### Here is a random meme for you, to make your day better.
 (*PS: Refresh the page to see a new meme* :wink: )
