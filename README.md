@@ -12,7 +12,7 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Sanoj-Raja/Sanoj-Raja/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Computers run on binary code, which means that their software is written using only 1s and 0s.
 - 📫 &nbsp; How to reach me: pimen07860@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](Sanoj_Prasad_Resume.pdf).
 
 ### My Absolute Favorites:
 
