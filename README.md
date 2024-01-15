@@ -24,7 +24,7 @@ I'm a self-taught programmer & developer from India. I'm a passionate learner wh
 
 <code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/dart.png" alt="Dart"> </code>
 <code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/flutter.png" alt="Flutter"></code>
-<code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/swift" alt="Swift"></code>
+<code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/swift.png" alt="Swift"></code>
 <code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/ios.png" alt="iOS"></code>
 <code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/git.png" alt="Git"></code>
 <code><img height="60" src="https://github.com/Sanoj-Raja/Sanoj-Raja/blob/main/javascript.png" alt="JavaScript"></code>
